@@ -10,7 +10,7 @@ Painel em Excel e script em Google Apps Script que identifica quais colaboradore
 
 ## Prévia
 
-!![E-mail de aviso](email-exemplo.png)
+![E-mail de aviso](email-exemplo.png)
 
 ## O problema
 
@@ -82,7 +82,7 @@ An Excel dashboard and a Google Apps Script that identify which employees are en
 
 ## Preview
 
-!![Alert email](email-exemplo.png)
+![Alert email](email-exemplo.png)
 
 ## The problem
 
