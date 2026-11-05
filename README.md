@@ -12,6 +12,9 @@ Painel em Excel e script em Google Apps Script que identifica quais colaboradore
 
 ![E-mail de aviso](email-exemplo.png.jpeg)
 
+
+<img src="painel.png.jpeg" alt="Painel de consulta" width="600">
+
 ## O problema
 
 O controle do day off de aniversário era feito à mão. Era preciso conferir a data de nascimento e a data de admissão de cada pessoa para saber quem tinha direito ao benefício e quando.
@@ -83,6 +86,9 @@ An Excel dashboard and a Google Apps Script that identify which employees are en
 ## Preview
 
 ![Alert email](email-exemplo.png.jpeg)
+
+
+<img src="painel.png.jpeg" alt="Lookup dashboard" width="600">
 
 ## The problem
 
